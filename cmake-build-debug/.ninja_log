@@ -1,0 +1,18 @@
+# ninja log v5
+2	116	1684923578267828726	CMakeFiles/OShw.dir/Project2-Multithreaded_Sorting_Algorithm.c.o	b205b7c63f7a46ea
+1	37	1682433800720020210	CMakeFiles/OShw.dir/hw1-1.c.o	b97b7fff830a8bea
+1	26	1682433800707289616	CMakeFiles/OShw.dir/hw1-3.c.o	b8244d2ce7df971
+2	47	1684924795658164631	CMakeFiles/OShw.dir/4.16_Multithreaded.c.o	b554f7500cbf7bff
+1	25	1682433800707373404	CMakeFiles/OShw.dir/hw1-2.c.o	501fe79f153ae38
+0	50	1684939262121615181	build.ninja	cc61362b7ea7210d
+37	70	1684937376113956666	OShw	d69052deefd633c9
+1	37	1684937376081236641	CMakeFiles/OShw.dir/main.c.o	7f1c06c9d3a3c1a3
+1	21	1684936497550838999	CMakeFiles/OShw.dir/test.c.o	aff5d74e2e6d0bf6
+0	23	1682434537698167247	CMakeFiles/OShw.dir/3.15_Shared-memory.c.o	404a950495025e45
+0	28	1682434537702293300	CMakeFiles/OShw.dir/3.14_Collatz-Conjecture_Concerns.c.o	5a3fb88c4c8fe97c
+1	129	1682496755640915614	CMakeFiles/OShw.dir/3.20_File-Copying.c.o	5c452ec2a3c9eeaa
+0	30	1682434537704923534	CMakeFiles/OShw.dir/Q1.c.o	6cf0e43893f1dbe2
+1	38	1682504502459849842	CMakeFiles/OShw.dir/Q2.c.o	61fc7d9d3d85cdea
+3	126	1684940152818376898	CMakeFiles/OShw.dir/main.c.o	7f1c06c9d3a3c1a3
+4	161	1684940152856836078	CMakeFiles/OShw.dir/Q2.c.o	61fc7d9d3d85cdea
+162	204	1684940152899868341	OShw	4ae9c582f51b3c1b
